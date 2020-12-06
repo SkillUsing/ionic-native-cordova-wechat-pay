@@ -1,0 +1,17 @@
+{
+    "name": "ionic-native-cordova-wechat-pay",
+    "version": "1.0.1",
+    "description": "wechat pay ionic native",
+    "module": "index.js",
+    "scripts": {
+        "test": "echo ‘Error: no test specified’ && exit 1"
+    },
+    "dependencies": {
+        "rxjs": "^5.5.0 || ^6.5.0",
+        "@ionic-native/core": "^5.1.0",
+        "tslib": "^1.9.0"
+    },
+    "author": "Li Chen <fissoftlichen@gmail.com>",
+    "license": "MIT",
+    "typings": "index.d.ts"
+}
