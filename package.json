@@ -1,6 +1,6 @@
 {
     "name": "ionic-native-cordova-wechat-pay",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "wechat pay ionic native",
     "module": "index.js",
     "scripts": {
