@@ -38,4 +38,5 @@ export declare class WeChatPay extends IonicNativePlugin {
      * </code>
      */
     sendPaymentRequest(params: any): Promise<any>;
+    auth(scope: any, state: any): Promise<any>;
 }

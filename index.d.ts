@@ -38,6 +38,7 @@ export declare class WeChatPayOriginal extends IonicNativePlugin {
      * </code>
      */
     sendPaymentRequest(params: any): Promise<any>;
+    auth(scope: any, state: any): Promise<any>;
 }
 
 export declare const WeChatPay: WeChatPayOriginal;
